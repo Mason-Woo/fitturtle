@@ -10,7 +10,7 @@ FitTurtle is based on the Turtlebot robotics kit (www.turtlebot.com), coupled wi
   
 # Usage Instructions
 	 
-	 FitTurtle is conceived as an autonomous robot that passively roams offices, schools, and gymnasiums and gathers data on posture and other fitness metrics. Posture and form corrections can be delivered directly by FitTurtle, or stored for data metrics on building health and ergonomics, for example. FitTurtle would be designed to be unobtrusive and fit into existing office-style environments. Posture/Fitness data and reports could be generated for health professionals to improve the health and well-being of employees.
+FitTurtle is conceived as an autonomous robot that passively roams offices, schools, and gymnasiums and gathers data on posture and other fitness metrics. Posture and form corrections can be delivered directly by FitTurtle, or stored for data metrics on building health and ergonomics, for example. FitTurtle would be designed to be unobtrusive and fit into existing office-style environments. Posture/Fitness data and reports could be generated for health professionals to improve the health and well-being of employees.
 	  
 # SkeletonBasics.cpp
 
